@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src='https://avatars.githubusercontent.com/u/79126599?v=4' alt="PureNSpiration Logo" width="25%" height="auto"/>
+</p>
+<h1 align="center"> Hi there! My name is Nathan Cluff! :zap: </h1>
+
 
 <!--
 **ncluff003/ncluff003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
