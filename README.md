@@ -1,5 +1,6 @@
 <p align="center">
-  <img src='https://avatars.githubusercontent.com/u/79126599?v=4' alt="PureNSpiration Logo" width="25%" height="auto"/>
+  <img src='https://avatars.githubusercontent.com/u/79126599?v=4' alt="Nathan Cluff" width="25%" height="auto"/>
+  <img src='https://purenspiration.com/DIST/CSS/Images/my-headshot.jpg' alt="Nathan Cluff" width="25%" height="auto"/>
 </p>
 <h1 align="center"> Hi there! My name is Nathan Cluff! :zap: </h1>
 
