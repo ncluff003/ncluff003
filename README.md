@@ -1,7 +1,4 @@
 <p align="center">
-  <img src='/home/ncluff003/Pictures/Computer Desktop Image.svg' />
-</p>
-<p align="center">
   <img src='https://avatars.githubusercontent.com/u/79126599?v=4' alt="Nathan Cluff" width="25%" height="auto"/>
   <img src='https://purenspiration.com/DIST/CSS/Images/my-headshot.jpg' alt="Nathan Cluff" width="25%" height="auto"/>
 </p>
