@@ -1,9 +1,14 @@
 <p align="center">
+  <img src='/home/ncluff003/Pictures/Computer Desktop Image.svg' />
+</p>
+<p align="center">
   <img src='https://avatars.githubusercontent.com/u/79126599?v=4' alt="Nathan Cluff" width="25%" height="auto"/>
   <img src='https://purenspiration.com/DIST/CSS/Images/my-headshot.jpg' alt="Nathan Cluff" width="25%" height="auto"/>
 </p>
 <h1 align="center"> Hi there! My name is Nathan Cluff! :zap: </h1>
-
+<p align="center">Follower of Christ | Husband | Father | Full-Stack Developer</p>
+<br><br>
+<h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 
 <!--
 **ncluff003/ncluff003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
