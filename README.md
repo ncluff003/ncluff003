@@ -34,7 +34,7 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/Vue.png' alt='Vue.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Cypress.jpg' alt='Cypress.js' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Cypress.png' alt='Cypress.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/nodejs.png' alt='Node.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
