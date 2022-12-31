@@ -16,8 +16,6 @@
   <li>Could napping be a hobby?  After a long day, or even in some downtime, I definitely love me a good nap to be able to re-charge and get right back into life. 🛏️ 😜</li>
 </ul>
 
-<br>
-
 <h3>Languages And Tools I Use:</h3>
 <br>
 <div style='display: flex; justify-content: space-evenly; align-items: center;'>
