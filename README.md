@@ -11,12 +11,16 @@
 <h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
 <ul>
   <li>Playing and watching sports. <img src='/Images/Chiefs-logo.jpg' style='height: 25px; width: auto;' alt='Kansas City Chiefs Logo'/> Go Chiefs! <img src='/Images/byu-logo.jpg' style='height: 25px; width: auto;' alt='BYU Logo'/> Go Cougars! <img src='/Images/la-lakers-logo.jpg' style='height: 25px; width: auto;' alt='Los Angeles Lakers Logo'/> Go Lakers</li>
-  <li>Food in general, whether cooking, baking, going out to eat, or even gardening / farming.  I really want to start doing that last one because food is so delicious when fresh. 🍔 🍕 🍰 🌮</li>
-  <li>Video Games -- I love many Genres, but Sports and RPG are really fun.</li>
+  <li>Food in general, whether cooking, baking, going out to eat, or even gardening / farming.  I really want to start doing that last one because food is so delicious when fresh. 🍔 🍕 🍰 🌮 🏡 🧑‍🌾</li>
+  <li>Video Games -- I love many Genres, but Sports and RPG are really fun. 🎮</li>
   <li> ⛺ Going camping and spending time with family is always a fun time for me.  Combine with #2 food, and it can be to die for, especially something like tin-foil dinners and having peach cobbler from a dutch oven. 🍑 🥧 😋</li>
-  <li>Could napping be a hobby?  After a long day, or even in some downtime, I definitely love me a good nap to be able to re-charge and get right back into life. 😜</li>
-  
+  <li>Could napping be a hobby?  After a long day, or even in some downtime, I definitely love me a good nap to be able to re-charge and get right back into life. 🛏️ 😜</li>
 </ul>
+
+<br><br>
+
+<h3>Let's Be Friends And Connect!</h3>
+<a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' /></a>
 
 <br><br>
 
