@@ -52,7 +52,7 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/Inkscape.png' alt='Inkscape' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Axio.png' alt='Axios' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Axios.png' alt='Axios' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/MongoDB.png' alt='MongoDB' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
