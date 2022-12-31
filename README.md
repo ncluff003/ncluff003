@@ -21,7 +21,7 @@
 
 <h3>Languages And Tools I Use:</h3>
 <br>
-<img src='/Images/Languages-and-Tools/HTML.png' alt='My Personal Website' style='height: 40px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/HTML5.png' alt='My Personal Website' style='height: 40px; width: auto;'/>
 <br><br>
 
 <h3>Want To Hire Me:</h3>
