@@ -4,9 +4,9 @@
 </p>
 <h1 align="center"> Hi there! My name is Nathan Cluff! :zap: </h1>
 <p align="center">Follower of Christ | Husband | Father | Full-Stack Developer</p>
-<br><br>
+<br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
-<br><br>
+<br>
 
 <h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
 <ul>
