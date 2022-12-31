@@ -19,8 +19,19 @@
 
 <br><br>
 
+<h3>Languages And Tools I Use:</h3>
+<br>
+<img src='/Images/Languages-and-Tools/HTML5.JPG' alt='My Personal Website' style='height: 40px; width: auto;'/>
+<br><br>
+
+<h3>Want To Hire Me:</h3>
+📧: <a href='mailto:ncluff003@purenspiration.com'>Send Me An Email.</a>
+<br>
+📬: <a href='https://www.purenspiration.com/contact'>Send A Message Through My Personal Website (Which just so happens to be the home of some of my projects. 😄)</a>
+
 <h3>Let's Be Friends And Connect:</h3>
 <a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' style='height: 40px; width: auto;'/></a>
+&nbsp; &nbsp;
 <a href='https://www.purenspiration.com/contact'><img src='/Images/my-logo.svg' alt='My Personal Website' style='height: 40px; width: auto;'/></a>
 
 <br><br>
