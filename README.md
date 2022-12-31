@@ -19,8 +19,9 @@
 
 <br><br>
 
-<h3>Let's Be Friends And Connect!</h3>
-<a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' style='height: 50px; width: auto;'/></a>
+<h3>Let's Be Friends And Connect:</h3>
+<a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' style='height: 40px; width: auto;'/></a>
+<a href='https://www.purenspiration.com/contact'><img src='/Images/my-logo.svg' alt='My Personal Website' style='height: 40px; width: auto;'/></a>
 
 <br><br>
 
