@@ -5,6 +5,9 @@
 <h1 align="center"> Hi there! My name is Nathan Cluff! :zap: </h1>
 <p align="center">Follower of Christ | Husband | Father | Full-Stack Developer</p>
 <br>
+
+![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700&style=plastic&label=Profile+Views)
+
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 
 <h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
@@ -66,6 +69,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ncluff003&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<h3>The Rest Of Nathan Cluff's GitHub Stats:</h3>
+
+![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700&border_color=ffd700&show_icons=true)
+
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=compact)](https://github.com/ncluff003/github-readme-stats)
+
 <h3>Want To Hire Me:</h3>
 📧: <a href='mailto:ncluff003@purenspiration.com'>Send Me An Email.</a>
 <br>
@@ -75,16 +84,6 @@
 <a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' style='height: 40px; width: auto;'/></a>
 &nbsp; &nbsp;
 <a href='https://www.purenspiration.com/contact'><img src='/Images/my-logo.svg' alt='My Personal Website' style='height: 40px; width: auto;'/></a>
-
-<br><br>
-
-<h3>Nathan Cluff's GitHub Stats:</h3>
-
-![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700&border_color=ffd700&show_icons=true)
-
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=compact)](https://github.com/ncluff003/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700&style=plastic&label=Profile+Views)
 
 <!--
 **ncluff003/ncluff003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
