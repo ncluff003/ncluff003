@@ -22,33 +22,45 @@
 <h3>Languages And Tools I Use:</h3>
 <br>
 <div style='display: flex; justify-content: space-evenly; align-items: center;'>
-<img src='/Images/Languages-and-Tools/HTML5.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/HTML5.png' alt='HTML5' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/CSS3.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/CSS3.png' alt='CSS3' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/SCSS.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/SCSS.png' alt='SCSS' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/JavaScript.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/JavaScript.png' alt='JavaScript' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/React.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/React.png' alt='React.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Vue.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Vue.png' alt='Vue.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Cypress.jpg' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Cypress.jpg' alt='Cypress.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/nodejs.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/nodejs.png' alt='Node.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Express.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Express.png' alt='Express.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Postman.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Postman.png' alt='Postman' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Pugjs.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Pugjs.png' alt='Pug.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Webpack.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Webpack.png' alt='Webpack' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/Git.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/Git.png' alt='Git' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/JWT.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/JWT.png' alt='JSON Web Tokens' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Inkscape.png' alt='Inkscape' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Axios.png' alt='Axios' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/MongoDB.png' alt='MongoDB' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Mongoose.png' alt='Mongoose.js' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/npm.png' alt='npm' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Parcel.png' alt='Parcel Bundler' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 </div>
 <br><br>
