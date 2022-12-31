@@ -21,11 +21,11 @@
 
 <h3>Languages And Tools I Use:</h3>
 <br>
-<img src='/Images/Languages-and-Tools/HTML5.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/HTML5.png' alt='My Personal Website' style='height: 60px; width: auto; display: inline-block;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/CSS3.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/CSS3.png' alt='My Personal Website' style='height: 60px; width: auto; display: inline-block;'/>
 &nbsp; &nbsp;
-<img src='/Images/Languages-and-Tools/JavaScript.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/JavaScript.png' alt='My Personal Website' style='height: 60px; width: auto; display: inline-block;'/>
 &nbsp; &nbsp;
 <br><br>
 
