@@ -7,7 +7,7 @@
 <br><br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 
-![Profile Views](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700)
 
 <!--
 **ncluff003/ncluff003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
