@@ -83,6 +83,8 @@
 
 ![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003)
 
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=compact)](https://github.com/ncluff003/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700&style=plastic&label=Profile+Views)
 
 <!--
