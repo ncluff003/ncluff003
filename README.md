@@ -60,7 +60,11 @@
 <img src='/Images/Languages-and-Tools/Parcel.png' alt='Parcel Bundler' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 </div>
-<br><br>
+<br>
+
+<h3>Consistency Is The Key | Some Of My GitHub Stats:</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ncluff003&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3>Want To Hire Me:</h3>
 📧: <a href='mailto:ncluff003@purenspiration.com'>Send Me An Email.</a>
@@ -75,8 +79,6 @@
 <br><br>
 
 <h3>Nathan Cluff's GitHub Stats:</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ncluff003&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700&border_color=ffd700&show_icons=true)
 
