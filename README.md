@@ -7,6 +7,8 @@
 <br><br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 
+<br><br>
+
 ![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700&style=plastic&label=Profile+Views)
 
 <!--
