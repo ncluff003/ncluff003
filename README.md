@@ -20,7 +20,7 @@
 <br><br>
 
 <h3>Let's Be Friends And Connect!</h3>
-<a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' /></a>
+<a href='https://www.linkedin.com/in/ncluff003'><img src='/Images/linked-in-logo.png' alt='My LinkedIn Profile' style='height: 50px; width: auto;'/></a>
 
 <br><br>
 
