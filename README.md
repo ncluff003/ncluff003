@@ -22,7 +22,7 @@
 <h3>Languages And Tools I Use:</h3>
 <br>
 <div style='display: flex; justify-content: space-evenly; align-items: center;'>
-<img src='/Images/Languages-and-Tools/HTML.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+<img src='/Images/Languages-and-Tools/HTML5.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/CSS3.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
