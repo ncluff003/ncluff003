@@ -7,7 +7,7 @@
 <br><br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 
-![Profile Views](https://avatars.githubusercontent.com/u/79126599?v=4/counter.svg)
+![Profile Views](https://purenspiration.com/DIST/CSS/Images/my-headshot.jpg/counter.svg)
 
 <!--
 **ncluff003/ncluff003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
