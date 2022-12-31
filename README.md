@@ -8,7 +8,7 @@
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
 <br><br>
 
-<h4>Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
+<h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
 <ul>
   <li>Playing and watching sports. ![Kansas City Chiefs](https://1000logos.net/wp-content/uploads/2016/11/Chiefs-logo.jpg) Go Chiefs! ![BYU]() Go Cougars!</li>
   <li></li>
