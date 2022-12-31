@@ -81,7 +81,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ncluff003&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=#222222&title_color=#ffd700&text_color=#ffd700&icon_color=#0047AB)
+![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=ffd700&icon_color=0047AB)
 
 [![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=compact)](https://github.com/ncluff003/github-readme-stats)
 
