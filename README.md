@@ -56,7 +56,7 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/MongoDB.png' alt='MongoDB' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-
+<img src='/Images/Languages-and-Tools/Mongoose.png' alt='Mongoose.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/npm.png' alt='npm' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
