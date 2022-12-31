@@ -10,7 +10,7 @@
 
 <h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
 <ul>
-  <li>Playing and watching sports. ![Kansas City Chiefs](Images/Chiefs-logo.jpg) Go Chiefs! ![BYU](Images/byu-logo.jpg) Go Cougars!</li>
+  <li>Playing and watching sports. <img src='/Images/Chiefs-logo.jpg' style='height: 50px; width: auto;'/> Go Chiefs! ![BYU](Images/byu-logo.jpg) Go Cougars!</li>
   <li></li>
   <li></li>
   <li></li>
