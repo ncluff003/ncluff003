@@ -6,7 +6,6 @@
 <p align="center">Follower of Christ | Husband | Father | Full-Stack Developer</p>
 <br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
-<br>
 
 <h4 align="center">Having hobbies outside of development, and many outside of tech is important to me.  If I am asked any questions about the following, and you are showing genuine interest, we could very well be friends.</h4>
 <ul>
@@ -17,7 +16,7 @@
   <li>Could napping be a hobby?  After a long day, or even in some downtime, I definitely love me a good nap to be able to re-charge and get right back into life. 🛏️ 😜</li>
 </ul>
 
-<br><br>
+<br>
 
 <h3>Languages And Tools I Use:</h3>
 <br>
