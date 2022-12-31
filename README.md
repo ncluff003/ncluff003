@@ -6,6 +6,12 @@
 <p align="center">Follower of Christ | Husband | Father | Full-Stack Developer</p>
 <br><br>
 <h3 align="center">Now that we have the important stuff out there, here is more about me:</h3>
+<br><br>
+
+<ul>
+  <li style='list-style=none'>My favorite hobbies include: Sports, Cooking, Camping, and many others...</li>
+  
+</ul>
 
 <br><br>
 
