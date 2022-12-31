@@ -26,7 +26,29 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/CSS3.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/SCSS.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/JavaScript.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/React.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Vue.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Cypress.jpg' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/nodejs.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Express.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Postman.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Pugjs.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Webpack.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/Git.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
+&nbsp; &nbsp;
+<img src='/Images/Languages-and-Tools/JWT.png' alt='My Personal Website' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 </div>
 <br><br>
