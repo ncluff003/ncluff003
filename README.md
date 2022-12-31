@@ -78,7 +78,7 @@
 <br><br>
 
 <h3>Nathan Cluff's GitHub Stats:</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ncluff003)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=ncluff003&color=ffd700&style=plastic&label=Profile+Views)
 
