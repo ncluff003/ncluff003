@@ -42,7 +42,6 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/Postman.png' alt='Postman' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<br>
 <img src='/Images/Languages-and-Tools/Pugjs.png' alt='Pug.js' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/Webpack.png' alt='Webpack' style='height: 60px; width: auto;'/>
@@ -53,7 +52,6 @@
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/Inkscape.png' alt='Inkscape' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
-<br>
 <img src='/Images/Languages-and-Tools/Axios.png' alt='Axios' style='height: 60px; width: auto;'/>
 &nbsp; &nbsp;
 <img src='/Images/Languages-and-Tools/MongoDB.png' alt='MongoDB' style='height: 60px; width: auto;'/>
