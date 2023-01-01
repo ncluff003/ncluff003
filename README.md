@@ -71,7 +71,7 @@
 
 <h3>The Rest Of Nathan Cluff's GitHub Stats:</h3>
 
-![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700&border_color=ffd700&show_icons=true)
+![More of Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncluff003&bg_color=222222&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700&border_color=ffd700&show_icons=true
 
 [![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=compact)](https://github.com/ncluff003/github-readme-stats)
 
