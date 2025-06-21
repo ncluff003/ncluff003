@@ -132,7 +132,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=FEFEFE&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Overall Stats" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=donut-vertical&theme=transparent&hide_border=true&text_color=FEFEFE&title_color=FFD700#gh-dark-mode-only)](https://github.com/ncluff003/github-readme-stats)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=donut-vertical&theme=transparent&hide_border=true&text_color=FEFEFE&title_color=FFD700#gh-dark-mode-only)](https://github.com/ncluff003/github-readme-stats" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=donut-vertical&theme=transparent&hide_border=true&text_color=FEFEFE&title_color=FFD700#gh-dark-mode-only)](https://github.com/ncluff003/github-readme-stats" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=donut-vertical&theme=transparent&hide_border=true&text_color=FEFEFE&title_color=FFD700#gh-dark-mode-only)](https://github.com/ncluff003/github-readme-stats" alt="My Most Used Languages" />
+</picture>
 
   </section>
 
