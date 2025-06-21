@@ -2,8 +2,8 @@
   <img src="./Images/README-Banner_PureNSpiration.svg" alt="PureNSpiration Banner" width="100%" height="auto" />
 </header>
 <section style="display: flex; flex-flow: column nowrap; align-items: center;">
-  <h1 style="width: 100%; margin: .5rem 1rem .25rem; padding: 0 0 1rem; text-align: center;"> ⭐ &nbsp; Nathan Cluff &nbsp; ⭐ </h1>
-  <h2 style="width: max-content; background-color: #FEFEFE22; margin: 1rem; padding: .25rem .5rem .5rem; border-radius: .2rem; font-size: 1.5rem; font-weight: lighter;">Husband | Father | Highly Sensitive Software Engineer</h2>
+  <h1 align="center" style="width: 100%; margin: .5rem 1rem .25rem; padding: 0 0 1rem; text-align: center;"> ⭐ &nbsp; Nathan Cluff &nbsp; ⭐ </h1>
+  <h2 align="center" style="width: max-content; background-color: #FEFEFE22; margin: 1rem; padding: .25rem .5rem .5rem; border-radius: .2rem; font-size: 1.5rem; font-weight: lighter;">Husband | Father | Highly Sensitive Software Engineer</h2>
   
 </section>
 <section align="left" style="margin: 0 0 1rem; padding: .5rem 1rem;">
