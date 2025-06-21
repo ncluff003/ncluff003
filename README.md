@@ -9,71 +9,30 @@
 
   </h3>
 
-<section align="left" style="margin: 0 0 1rem; padding: .5rem 1rem;">
+< align="left" style="margin: 0 0 1rem; padding: .5rem 1rem;">
 
 &nbsp; &nbsp; &nbsp; I am a software engineer who develops and leads with empathy, purpose, and immense attention to detail. And, looking back as far as I could remember, I have always had a passion for data, technology, and creation. Beginning in December of 2016, I found both the perfect blend of data, technology, and creation as well as a sense of purpose, that has eluded me for years, within software engineering.
 
 &nbsp; &nbsp; &nbsp; As a highly sensitive person, I bring a thoughtful, and human-centered approach to any project I am involved with. Also, I tend to process information deeply, which lends itself perfectly to noticing subtle patterns and details. That lends itself perfectly to what I consider my purpose in software engineering. That is, to build tools and software which enables all those who use and work with it to be a better version of themselves than before it was built.
 
-  <hr style="height: .08rem; width: 100%; margin: 1.5rem 1.5rem .5rem;">
+<h2 align="center">Followers & Stars</h2>
 
-  <section style="width: 100%; display: flex; justify-content: space-between;">
-    <h2>Followers & Stars</h2>
-    <h2>Socials & Personal Website</h2>
-  </section>
-  <section style="width: 100%; display: flex; justify-content: space-between;">
-    <section style="width: 50%; display: flex; justify-content: start; align-items: center; flex-flow: row wrap; align-self: start;">
-  <span style="margin-right: .25rem;">
+<section align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/ncluff003?style=for-the-badge&logo=github&labelColor=%23181717&color=%2334C941)
-
-</span>
-
-  <span style="margin-right: .25rem;">
-
 ![GitHub User's stars](https://img.shields.io/github/stars/ncluff003?style=for-the-badge&logo=github&labelColor=181717&color=34C941)
 
-</span>
+</section>
 
-  </section>
-  <section style="width: max-content; display: flex; justify-content: end; align-items: center; flex-flow: row wrap;">
-
-<span style="margin-right: .25rem;">
+  <h2 align="center">Socials & Personal Website</h2>
+  <section align="center">
 
 [![Static Badge](https://img.shields.io/badge/ncluff003-Github?style=for-the-badge&logo=github&color=%23181717)](https://www.github.com/ncluff003)
-
-</span>
-
-<span style="margin-right: .25rem;">
-
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin-in&logoColor=FEFEFE&color=0047AB)](https://www.linkedin.com/in/ncluff003)
-
-</span>
-
-<span style="margin-right: .25rem;">
-
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=x&color=000000)](https://www.x.com/ncluff003)
-
-</span>
-
-<span style="margin-right: .25rem;">
-
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=instagram&color=%23FF0069)](https://www.instagram.com/ncluff003)
-
-</span>
-
-<span style="margin-right: .25rem;">
-
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=codepen&color=000000)](https://www.codepen.io/ncluff003)
-
-</span>
-
-<span style="margin-right: .25rem;">
-
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=leetcode&logoColor=FEFEFE&color=%23FFA116)](https://www.leetcode.com/u/ncluff003)
-
-</span>
-
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A#gh-dark-mode-only)](https://www.purenspiration.com)
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com)
 
