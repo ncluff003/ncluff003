@@ -140,10 +140,4 @@
 
   </section>
 
-  <hr style="height: .1rem; margin: 0">
-
 </section>
-
-<section style="display: flex; flex-flow: row wrap; justify-content: space-evenly; padding: 2rem 0em;">
-
- </section>
