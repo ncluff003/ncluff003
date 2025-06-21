@@ -115,15 +115,6 @@
   <section style="display: flex; flex-flow: row wrap; justify-content: space-around; padding: 1rem .5rem 0;">
 
 <picture>
-  <source srcset="https://github-readme-streak-stats-eight.vercel.app/?user=ncluff003&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=B42F01&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FEFEFE&currStreakLabel=FEFEFE&stroke=FEFEFE&dates=FEFEFE&width=100%"
-  media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats-eight.vercel.app/?user=ncluff003&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=B42F01&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FEFEFE&currStreakLabel=FEFEFE&stroke=FEFEFE&dates=FEFEFE&width=100%"
-  media="(prefers-color-scheme: light)"
-  />
-
-</picture>
-
-<picture>
   <source 
     srcset="https://github-readme-streak-stats-eight.vercel.app/?user=ncluff003&theme=dark&hide_border=true&ring=B42F01&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FEFEFE&currStreakLabel=FEFEFE&stroke=FEFEFE&dates=FEFEFE" 
     media="(prefers-color-scheme: dark)" />
@@ -135,11 +126,11 @@
     alt="GitHub Streak Stats" />
 </picture>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ncluff003&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=B42F01&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FEFEFE&currStreakLabel=FEFEFE&stroke=FEFEFE&dates=FEFEFE&width=100%#gh-dark-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ncluff003&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=B42F01&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FEFEFE&currStreakLabel=FEFEFE&stroke=FEFEFE&dates=FEFEFE&width=100%#gh-light-mode-only)](https://git.io/streak-stats) -->
-
-[![Nathan's GitHub Statistics - Dark](https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=FEFEFE&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)]()
-[![Nathan's GitHub Statistics - Light](https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=1A1A1A&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)]()
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=FEFEFE&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=1A1A1A&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ncluff003&theme=transparent&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&text_color=FEFEFE&card_width=45%&ring_color=FFD700AA&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Overall Stats" />
+</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncluff003&layout=donut-vertical&theme=transparent&hide_border=true&text_color=FEFEFE&title_color=FFD700#gh-dark-mode-only)](https://github.com/ncluff003/github-readme-stats)
 
