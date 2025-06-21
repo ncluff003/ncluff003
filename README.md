@@ -48,9 +48,9 @@
 
 #
 
-<section align="left" style="padding: 0 1.5rem; display: flex; flex-flow: row wrap; border-bottom: .1rem solid #FEFEFE33">
-  <h2 style="width: 100%; margin: 0; border-bottom: none; text-align: center;"> 🧰 Technologies I Primarily Use 🧰 </h2>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+<section align="center">
+  <h2> 🧰 Technologies I Primarily Use 🧰 </h2>
+  <article>
     <h4 style="font-weight: lighter;">LANGUAGES</h4>
 
 ![Static Badge](https://img.shields.io/badge/Typescript-TypeScript?style=for-the-badge&logo=typescript&logoColor=%23FEFEFE&color=%233178C6)
@@ -58,21 +58,21 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=html5&logoColor=%23FEFEFE&color=%23E34F26)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">STYLING</h4>
 
 ![Static Badge](https://img.shields.io/badge/CSS3-CSS?style=for-the-badge&logo=CSS&logoColor=%23FEFEFE&color=%23663399)
 ![Static Badge](https://img.shields.io/badge/SCSS-SCSS?style=for-the-badge&logo=SASS&logoColor=%23FEFEFE&color=%23CC6699)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">FRONTEND</h4>
 
 ![Static Badge](https://img.shields.io/badge/React-React?style=for-the-badge&logo=React&logoColor=%231a1a1a&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Redux-Redux?style=for-the-badge&logo=Redux&logoColor=%23fefefe&color=%23764ABC)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">BACKEND</h4>
 
 ![Static Badge](https://img.shields.io/badge/Node.js-Nodejs?style=for-the-badge&logo=nodedotjs&logoColor=%23fefefe&color=%23764ABC)
@@ -80,14 +80,14 @@
 ![Static Badge](https://img.shields.io/badge/Pug-Pug?style=for-the-badge&logo=pug&logoColor=%23fefefe&color=%23A86454)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">DATABASES</h4>
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-MongoDB?style=for-the-badge&logo=mongodb&logoColor=%23fefefe&color=%2347A248)
 
   </article>
   
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">TESTING</h4>
 
 ![Static Badge](https://img.shields.io/badge/Jest-Jest?style=for-the-badge&logo=jest&logoColor=%23fefefe&color=%23C21325)
@@ -95,13 +95,13 @@
 ![Static Badge](https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=postman&logoColor=%23fefefe&color=%23FF6C37)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">BUNDLING</h4>
   
   ![Static Badge](https://img.shields.io/badge/Webpack-Webpack?style=for-the-badge&logo=webpack&logoColor=%231a1a1a&color=%238DD6F9)
 
   </article>
-  <article style="width: 50%; display:flex; flex-flow: column nowrap; align-items: center;">
+  <article>
     <h4 style="font-weight: lighter;">VERSION CONTROL</h4>
 
 ![Static Badge](https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=%23fefefe&color=%23F05032)
@@ -110,7 +110,7 @@
   </article>
 </section>
 
-<!-- ------------------------------------------------ -->
+#
 
 <section>
   <h2 style="margin: .5rem 1rem 0rem; text-align: center; border-bottom: none; margin: 1rem 0 0"> 🌟 &nbsp; My GitHub & Statistics &nbsp; 🌟 </h2>
