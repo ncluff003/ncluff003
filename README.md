@@ -112,7 +112,7 @@
 
 <section>
   <h2 align="center"> 🌟 &nbsp; My GitHub & Statistics &nbsp; 🌟 </h2>
-  <section style="display: flex; flex-flow: row wrap; justify-content: space-around; padding: 1rem .5rem 0;">
+  <section align="center">
 
 <picture>
   <source 
