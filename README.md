@@ -37,7 +37,7 @@
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com)
 
 </section>
-<section align="center">
+  <section align="center">
   <h2 align="center">If You would Like To Chat:</h2>
     <a href='mailto:ncluff003@purenspiration.com' >
         📧 Send An Email
@@ -46,7 +46,7 @@
 
 </section>
 
-  <hr style="height: .08rem; width: 100%; margin: 0rem 1.5rem 1.5rem;">
+#
 
 <section align="left" style="padding: 0 1.5rem; display: flex; flex-flow: row wrap; border-bottom: .1rem solid #FEFEFE33">
   <h2 style="width: 100%; margin: 0; border-bottom: none; text-align: center;"> 🧰 Technologies I Primarily Use 🧰 </h2>
