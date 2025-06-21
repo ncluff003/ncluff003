@@ -9,8 +9,6 @@
 
   </h3>
 
-< align="left" style="margin: 0 0 1rem; padding: .5rem 1rem;">
-
 &nbsp; &nbsp; &nbsp; I am a software engineer who develops and leads with empathy, purpose, and immense attention to detail. And, looking back as far as I could remember, I have always had a passion for data, technology, and creation. Beginning in December of 2016, I found both the perfect blend of data, technology, and creation as well as a sense of purpose, that has eluded me for years, within software engineering.
 
 &nbsp; &nbsp; &nbsp; As a highly sensitive person, I bring a thoughtful, and human-centered approach to any project I am involved with. Also, I tend to process information deeply, which lends itself perfectly to noticing subtle patterns and details. That lends itself perfectly to what I consider my purpose in software engineering. That is, to build tools and software which enables all those who use and work with it to be a better version of themselves than before it was built.
