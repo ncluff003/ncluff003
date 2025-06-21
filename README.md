@@ -36,7 +36,7 @@
 
 </section>
   <section align="center">
-  <h2 align="center">If You would Like To Chat:</h2>
+  <h3 align="center">If You would Like To Chat:</h3>
     <a href='mailto:ncluff003@purenspiration.com' >
         📧 Send An Email
     </a>
@@ -47,7 +47,7 @@
 #
 
 <section align="center">
-  <h2> 🧰 Technologies I Primarily Use 🧰 </h2>
+  <h3> 🧰 Technologies I Primarily Use 🧰 </h3>
   <article>
     <h4 style="font-weight: lighter;">LANGUAGES</h4>
 
@@ -111,7 +111,7 @@
 #
 
 <section>
-  <h2 align="center"> 🌟 &nbsp; My GitHub & Statistics &nbsp; 🌟 </h2>
+  <h3 align="center"> 🌟 &nbsp; My GitHub & Statistics &nbsp; 🌟 </h3>
   <section align="center">
 
 <picture>
