@@ -1,14 +1,19 @@
-<header>
-  <img src="./Images/README-Banner_PureNSpiration.svg" alt="PureNSpiration Banner" width="100%" height="auto" />
-</header>
-<section style="display: flex; flex-flow: column nowrap; align-items: center;">
-  <h1 align="center" style="width: 100%; margin: .5rem 1rem .25rem; padding: 0 0 1rem; text-align: center;"> ⭐ &nbsp; Nathan Cluff &nbsp; ⭐ </h1>
-  <h2 align="center" style="width: max-content; background-color: #FEFEFE22; margin: 1rem; padding: .25rem .5rem .5rem; border-radius: .2rem; font-size: 1.5rem; font-weight: lighter;">Husband | Father | Highly Sensitive Software Engineer</h2>
+![image](./Images/README-Banner_PureNSpiration.svg)
+
+  <h1 align="center"> ⭐ &nbsp; Nathan Cluff &nbsp; ⭐ </h1>
+  <h3 align="center">
   
-</section>
+  ```
+  Husband | Father | Highly Sensitive Software Engineer
+  ```
+
+  </h3>
+
 <section align="left" style="margin: 0 0 1rem; padding: .5rem 1rem;">
-  <p style="text-indent: 1.5rem">I am a software engineer who develops and leads with empathy, purpose, and immense attention to detail. And, looking back as far as I could remember, I have always had a passion for data, technology, and creation. Beginning in December of 2016, I found both the perfect blend of data, technology, and creation as well as a sense of purpose, that has eluded me for years, within software engineering.</p>
-  <p style="text-indent: 1.5rem">As a highly sensitive person, I bring a thoughtful, and human-centered approach to any project I am involved with. Also, I tend to process information deeply, which lends itself perfectly to noticing subtle patterns and details. That lends itself perfectly to what I consider my purpose in software engineering. That is, to build tools and software which enables all those who use and work with it to be a better version of themselves than before it was built.</p>
+
+&nbsp; &nbsp; &nbsp; I am a software engineer who develops and leads with empathy, purpose, and immense attention to detail. And, looking back as far as I could remember, I have always had a passion for data, technology, and creation. Beginning in December of 2016, I found both the perfect blend of data, technology, and creation as well as a sense of purpose, that has eluded me for years, within software engineering.
+
+&nbsp; &nbsp; &nbsp; As a highly sensitive person, I bring a thoughtful, and human-centered approach to any project I am involved with. Also, I tend to process information deeply, which lends itself perfectly to noticing subtle patterns and details. That lends itself perfectly to what I consider my purpose in software engineering. That is, to build tools and software which enables all those who use and work with it to be a better version of themselves than before it was built.
 
   <hr style="height: .08rem; width: 100%; margin: 1.5rem 1.5rem .5rem;">
 
