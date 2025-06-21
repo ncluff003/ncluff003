@@ -37,11 +37,9 @@
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com)
 
 </section>
-
-  </section>
-  <section style="width: 100%; display: flex; flex-flow: column nowrap; align-items: center;">
-  <h2 style="center; align-self: center;">If You would Like To Chat:</h2>
-    <a href='mailto:ncluff003@purenspiration.com' style="height: max-content; width: max-content; padding: .25rem .5rem; font-size: 1rem; border-radius: .5rem; border: none; background-color: #34C941; color: #FEFEFE; font-weight: bold;">
+<section align="center">
+  <h2 align="center">If You would Like To Chat:</h2>
+    <a href='mailto:ncluff003@purenspiration.com' >
         📧 Send An Email
     </a>
   </section>
