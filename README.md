@@ -47,9 +47,6 @@
 </picture>
 </a>
 
-<!-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A)](https://www.purenspiration.com)
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com) -->
-
 </section>
   <section align="center">
   <h3 align="center">If You would Like To Chat:</h3>
