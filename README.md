@@ -31,8 +31,24 @@
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=instagram&color=%23FF0069)](https://www.instagram.com/ncluff003)
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=codepen&color=000000)](https://www.codepen.io/ncluff003)
 [![Static Badge](https://img.shields.io/badge/ncluff003-ncluff003?style=for-the-badge&logo=leetcode&logoColor=FEFEFE&color=%23FFA116)](https://www.leetcode.com/u/ncluff003)
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A#gh-dark-mode-only)](https://www.purenspiration.com)
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com)
+
+<a href="https://www.purenspiration.com">
+<picture>
+
+  <source 
+    src="https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    src="https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A" 
+    alt="GitHub Streak Stats" />
+</picture>
+</a>
+
+<!-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=1A1A1A)](https://www.purenspiration.com)
+[![Static Badge](https://custom-icon-badges.demolab.com/badge/PureNSpiration.com-%231A1A1A?logo=purenspiration&logoColor=FFD700&style=for-the-badge&color=FEFEFE#gh-light-mode-only)](https://www.purenspiration.com) -->
 
 </section>
   <section align="center">
